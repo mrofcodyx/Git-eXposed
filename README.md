@@ -1,4 +1,4 @@
-# 🔎 Git-eXposed
+# 🔎 Git-eXposed Tool
 Git-eXposed is an advanced tool for detecting and exploiting exposed Git repositories on web servers. Using an automated approach, it allows scanning of accessible .git directories, as well as providing download and analysis capabilities to extract sensitive information from misconfigured repositories. The tool is useful for both pentesters and information security professionals looking to identify security flaws on websites.
 
 ![image](https://github.com/user-attachments/assets/18b3f853-397b-4b29-b3ab-c2b2a7d4219d)
