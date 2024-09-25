@@ -1,11 +1,3 @@
 requests
-re
-time
-base64
-os
-sys
-subprocess
-threading
-itertools
 urllib3
-colorama 
+colorama
