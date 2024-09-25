@@ -71,6 +71,14 @@ The requirements will be automatically installed.
 ![image](https://github.com/user-attachments/assets/14885d65-6d2f-43b6-a81b-183ea387667c)
 #
 ![image](https://github.com/user-attachments/assets/f3b587da-8508-43d2-98fe-067bb08ee725)
+#
+
+# Contributions are welcome! If you would like to contribute to the project, please follow the steps below:
+
+- Fork the repository.
+- Create a branch with your changes (git checkout -b feature/new-feature).
+- Commit your changes (git commit -m 'Add new feature').
+- Submit a Pull Request for review.
 
 # 📘 Contact
 
