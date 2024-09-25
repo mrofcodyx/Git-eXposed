@@ -48,16 +48,8 @@ The requirements will be automatically installed.
 - colorama 
 - requests 
 - urllib3
-- itertools
-- threading
-- subprocess
-- base64
 - wget
 - git
-- time
-- sys
-- os
-- re
 
 # 🎬 Demonstration
 
