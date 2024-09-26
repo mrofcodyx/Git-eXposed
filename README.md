@@ -96,7 +96,7 @@ The requirements will be automatically installed.
 - Youtube: https://www.youtube.com/@Mr_ofcodyx
 
 # 🤝 Partnership
-Want to partner with the Bibi-Bird project? Feel free to reach out!
+Want to partner with the Git-eXposed project? Feel free to reach out!
 
   partners:
 
