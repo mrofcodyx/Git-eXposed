@@ -97,3 +97,7 @@ The requirements will be automatically installed.
 
 # 🤝 Partnership
 Want to partner with the Bibi-Bird project? Feel free to reach out!
+
+  partners:
+
+  ~ Alfredredbird - [Bibi-Bird](https://github.com/alfredredbird/Bibi-Bird)
