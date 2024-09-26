@@ -1,7 +1,22 @@
-# 🔎 Git-eXposed Tool
+<h1 align="center">
+  <b>🔎 Git-eXposed Tool</b>
+  <br>
+</h1>
+<p align="center">
+  <img src="https://img.wattpad.com/5b8ca7eca592b3908900f4beae38cfa4ddb54e20/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6244413052694c7256625f722d413d3d2d3930343236363237362e313631386261326137323430656664303539353035313034363538322e676966" alt="emailfinder" width="300">
+</p>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square&logo=python"> 
+  </a>
+  <a href="https://github.com/mrofcodyx/Git-eXposed/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg?style=square&logo=mit">
+  </a>
+  <a href="https://github.com/mrofcodyx">
+    <img src="https://img.shields.io/badge/author-@mrofcodyx-orange.svg?style=square&logo=github">
+  </a>
+</p>
 Git-eXposed is an advanced tool for detecting and exploiting exposed Git repositories on web servers. Using an automated approach, it allows scanning of accessible .git directories, as well as providing download and analysis capabilities to extract sensitive information from misconfigured repositories. The tool is useful for both pentesters and information security professionals looking to identify security flaws on websites.
-
-![Git-eXposed](https://github.com/user-attachments/assets/18b3f853-397b-4b29-b3ab-c2b2a7d4219d)
 
 
 # 📦 Installation
@@ -54,6 +69,8 @@ The requirements will be automatically installed.
 # 🎬 Demonstration
 
 - https://www.youtube.com/watch?v=7p5hL_2RujU
+
+![Git-eXposed](https://github.com/user-attachments/assets/18b3f853-397b-4b29-b3ab-c2b2a7d4219d)
 # 🔥 Looking for tokens Api Keys Strings and etc...🔥
 ![image](https://github.com/user-attachments/assets/1a887842-13a1-44ae-ba96-aebb23da367e)
 #
@@ -77,3 +94,6 @@ The requirements will be automatically installed.
 - Twitter/X: https://www.x.com/mr_ofcodyx
 - LinkedIn: https://www.linkedin.com/in/mrofcodyx/
 - Youtube: https://www.youtube.com/@Mr_ofcodyx
+
+# 🤝 Partnership
+Want to partner with the Bibi-Bird project? Feel free to reach out!
